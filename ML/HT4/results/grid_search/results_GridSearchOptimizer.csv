@@ -1,0 +1,14 @@
+cell_path,image_path,position_x,position_y,width,score,iterations,optimizer
+data/cells\001.png,data/images\image_0000.jpg,230,340,111.11111111111111,74.53314853314853,163840,GridSearchOptimizer
+data/cells\002.png,data/images\image_0000.jpg,0,560,93.33333333333333,70.99009620826259,163840,GridSearchOptimizer
+data/cells\003.png,data/images\image_0000.jpg,550,60,88.88888888888889,75.08231707317073,163840,GridSearchOptimizer
+data/cells\004.png,data/images\image_0000.jpg,10,485,84.44444444444444,74.60884353741497,163840,GridSearchOptimizer
+data/cells\005.png,data/images\image_0000.jpg,0,450,97.77777777777777,79.11827425504872,163840,GridSearchOptimizer
+data/cells\006.png,data/images\image_0000.jpg,130,480,102.22222222222223,77.10018674136322,163840,GridSearchOptimizer
+data/cells\007.png,data/images\image_0000.jpg,55,390,80.0,69.42405063291139,163840,GridSearchOptimizer
+data/cells\008.png,data/images\image_0000.jpg,290,380,111.11111111111111,80.35020126509488,163840,GridSearchOptimizer
+data/cells\009.png,data/images\image_0000.jpg,65,520,80.0,75.45208333333333,163840,GridSearchOptimizer
+data/cells\010.png,data/images\image_0000.jpg,0,565,80.0,74.66283783783784,163840,GridSearchOptimizer
+data/cells\011.png,data/images\image_0000.jpg,450,5,97.77777777777777,81.04928061629093,163840,GridSearchOptimizer
+data/cells\012.png,data/images\image_0000.jpg,115,160,80.0,92.92256493506494,163840,GridSearchOptimizer
+data/cells\013.png,data/images\image_0000.jpg,250,335,80.0,70.41493902439025,163840,GridSearchOptimizer

@@ -1,0 +1,14 @@
+cell_path,image_path,position_x,position_y,width,score,iterations,optimizer
+data/cells\001.png,data/images\image_0000.jpg,236,348,102.38432108435613,75.83169934640523,2,MonteCarloGradientOptimizer
+data/cells\002.png,data/images\image_0000.jpg,9,517,86.33732016369424,72.22425249169436,2,MonteCarloGradientOptimizer
+data/cells\003.png,data/images\image_0000.jpg,551,59,80.67657132943036,75.24033333333334,1,MonteCarloGradientOptimizer
+data/cells\004.png,data/images\image_0000.jpg,0,523,92.3863768830718,75.83116883116882,1,MonteCarloGradientOptimizer
+data/cells\005.png,data/images\image_0000.jpg,3,458,104.83558337864727,79.46668299853013,4,MonteCarloGradientOptimizer
+data/cells\006.png,data/images\image_0000.jpg,467,70,80.78995225390102,77.19268292682926,3,MonteCarloGradientOptimizer
+data/cells\007.png,data/images\image_0000.jpg,45,396,86.60389884621135,71.94582763337894,2,MonteCarloGradientOptimizer
+data/cells\008.png,data/images\image_0000.jpg,295,383,104.9766401708367,81.00633741258741,2,MonteCarloGradientOptimizer
+data/cells\009.png,data/images\image_0000.jpg,156,318,86.77769250261856,76.90632165083524,2,MonteCarloGradientOptimizer
+data/cells\010.png,data/images\image_0000.jpg,22,518,101.8110863266875,75.20212765957447,3,MonteCarloGradientOptimizer
+data/cells\011.png,data/images\image_0000.jpg,452,448,83.2796630354109,82.26506024096386,1,MonteCarloGradientOptimizer
+data/cells\012.png,data/images\image_0000.jpg,458,320,110.5975381673884,94.31325403568394,1,MonteCarloGradientOptimizer
+data/cells\013.png,data/images\image_0000.jpg,91,78,80.54561042856207,75.24710365853659,2,MonteCarloGradientOptimizer

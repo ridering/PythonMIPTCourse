@@ -1,0 +1,14 @@
+cell_path,image_path,position_x,position_y,width,score,iterations,optimizer
+data/cells\001.png,data/images\image_0000.jpg,16.0,528.0,119.0,83.28371348539416,8000,PeanoOptimizer
+data/cells\002.png,data/images\image_0000.jpg,16.0,528.0,81.0,72.90329218106996,8000,PeanoOptimizer
+data/cells\003.png,data/images\image_0000.jpg,528.0,112.0,89.0,77.37430621361852,8000,PeanoOptimizer
+data/cells\004.png,data/images\image_0000.jpg,16.0,464.0,109.0,75.9010989010989,8000,PeanoOptimizer
+data/cells\005.png,data/images\image_0000.jpg,16.0,464.0,91.0,81.87519050292772,8000,PeanoOptimizer
+data/cells\006.png,data/images\image_0000.jpg,16.0,464.0,95.0,77.8483351235231,8000,PeanoOptimizer
+data/cells\007.png,data/images\image_0000.jpg,48.0,400.0,83.0,71.4047898912724,8000,PeanoOptimizer
+data/cells\008.png,data/images\image_0000.jpg,304.0,400.0,91.0,83.2346225203368,8000,PeanoOptimizer
+data/cells\009.png,data/images\image_0000.jpg,16.0,560.0,83.0,77.67295268028636,8000,PeanoOptimizer
+data/cells\010.png,data/images\image_0000.jpg,16.0,528.0,95.0,76.1397129186603,8000,PeanoOptimizer
+data/cells\011.png,data/images\image_0000.jpg,16.0,528.0,115.0,83.38977455716586,8000,PeanoOptimizer
+data/cells\012.png,data/images\image_0000.jpg,112.0,208.0,83.0,94.99277108433735,8000,PeanoOptimizer
+data/cells\013.png,data/images\image_0000.jpg,240.0,336.0,81.0,75.37334523278298,8000,PeanoOptimizer
